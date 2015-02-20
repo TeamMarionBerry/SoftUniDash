@@ -1,0 +1,14 @@
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe.config
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.pdb
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.csprojResolveAssemblyReference.cache
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.FormCharacterCreator.resources
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.Properties.Resources.resources
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.csproj.GenerateResource.Cache
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.exe
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.pdb
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.FormMenuUIScreen.resources
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.FormGameScreen.resources
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe.config
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.exe
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.pdb
