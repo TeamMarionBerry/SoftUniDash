@@ -12,3 +12,6 @@ E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\obj\Debug
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe.config
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.exe
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.pdb
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe.config
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.exe
+E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.pdb
