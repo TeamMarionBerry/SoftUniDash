@@ -94,7 +94,6 @@
             this.Controls.Add(this.EnterCharacterName);
             this.Name = "FormCharacterCreator";
             this.Text = "Create Your Character";
-            this.Load += new System.EventHandler(this.FormCharacterCreator_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

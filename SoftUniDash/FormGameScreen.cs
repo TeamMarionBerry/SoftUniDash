@@ -12,12 +12,14 @@ using SoftUniDash.CharacterClasses;
 
 namespace SoftUniDash
 {
+
     public partial class FormGameScreen : Form
     {
-        Spell frozen = new Spell();
-
-        private Mage player = new Mage("TODO", "Pesho", 100, 100, 200, 200, 25, 50, 50, 60);
+        private string playerName;
+        private string classType;
         private Moving playerMoving;
+
+        public Character player = new Character("Pesho", "Mage", 100, 100, 200, 200, 25, 50, 50, 60);
 
         public FormGameScreen()
         {
@@ -28,7 +30,8 @@ namespace SoftUniDash
             gameTimer.Tick += UpdateScreen;
             gameTimer.Start();
 
-            playerNameLable.Text = player.Name;
+            playerNameLable.Text = playerName;
+            characterTypeLable.Text = classType;
             currentHealthLable.Text = player.CurrentHealth.ToString();
             playerMoving = Moving.None;
 
@@ -40,39 +43,11 @@ namespace SoftUniDash
 
         }
 
-        int velocity = 20;
-
         private void UpdateScreen(object sender, EventArgs e)
         {
-            if (playerMoving == Moving.Left)
-            {
-                player.X -= velocity;
-            }
-
-            if (playerMoving == Moving.Right)
-            {
-                player.X += velocity;
-            }
-
-            if (playerMoving == Moving.Down)
-            {
-                player.Y += velocity;
-            }
-
-            if (playerMoving == Moving.Up)
-            {
-                player.Y -= velocity;
-            }
-
-            if (playerMoving == Moving.None)
-            {
-                velocity--;
-            }
-
-            if (velocity < 6)
-            {
-                velocity++;
-            }
+            int[] moving = player.Move(playerMoving, player.X, player.Y);
+            player.X = moving[0];
+            player.Y = moving[1];
 
             mainCanvas.Invalidate();
         }
@@ -164,6 +139,30 @@ namespace SoftUniDash
                     {
                     }
                     break;
+            }
+        }
+
+        public string PassPlayerName
+        {
+            get
+            {
+                return this.playerName;
+            }
+            set
+            {
+                this.playerName = value;
+            }
+        }
+
+        public string PassClassType
+        {
+            get
+            {
+                return this.classType;
+            }
+            set
+            {
+                this.classType = value;
             }
         }
     }

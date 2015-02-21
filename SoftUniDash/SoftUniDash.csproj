@@ -49,8 +49,8 @@
     <Compile Include="CharacterClasses\Archer.cs" />
     <Compile Include="CharacterClasses\Character.cs" />
     <Compile Include="CharacterClasses\ClassesEnum.cs" />
+    <Compile Include="CharacterClasses\ClassType.cs" />
     <Compile Include="CharacterClasses\Enemy.cs" />
-    <Compile Include="CharacterClasses\Mage.cs" />
     <Compile Include="CharacterClasses\Moving.cs" />
     <Compile Include="CharacterClasses\Spell.cs" />
     <Compile Include="CharacterClasses\Unit.cs" />
@@ -74,6 +74,7 @@
       <DependentUpon>FormGameScreen.cs</DependentUpon>
     </Compile>
     <Compile Include="Game.cs" />
+    <Compile Include="IMovable.cs" />
     <Compile Include="Input.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

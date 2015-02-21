@@ -17,16 +17,6 @@ namespace SoftUniDash
             InitializeComponent();
         }
 
-        private void FormCharacterCreator_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
         private void ButtonCreateCharacter_Click(object sender, EventArgs e)
         {
             // Chech if the form is not empty
@@ -43,8 +33,9 @@ namespace SoftUniDash
             }
             else
             {
-
                 var game = new FormGameScreen();
+                game.PassPlayerName = TextBoxCharacterName.Text;
+                game.PassClassType = ComboBoxCharacterClass.SelectedItem.ToString();
                 game.Show();
             }
 
