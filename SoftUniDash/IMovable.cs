@@ -1,11 +1,7 @@
-﻿using SoftUniDash.CharacterClasses;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace SoftUniDash
+﻿namespace SoftUniDash
 {
+    using SoftUniDash.CharacterClasses;
+
     public interface IMovable
     {
         int[] Move(Moving movingUnit, int unitX, int unitY);

@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace SoftUniDash
+﻿namespace SoftUniDash
 {
+    using System.Collections;
+    using System.Windows.Forms;
+
     class Input
     {
         //Load list of available Keyboard buttons
