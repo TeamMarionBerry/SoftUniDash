@@ -22,13 +22,17 @@ E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDa
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\obj\Debug\SoftUniDash.csproj.GenerateResource.Cache
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.exe
 E:\Software University\Level02\TeamMarionBerry\SoftUniDash\SoftUniDash\SoftUniDash\SoftUniDash\bin\Debug\SoftUniDash.pdb
-D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\SoftUniDash.exe.config
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.exe
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.pdb
-D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.csprojResolveAssemblyReference.cache
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.FormMenuUIScreen.resources
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.FormCharacterCreator.resources
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.FormGameScreen.resources
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.Properties.Resources.resources
 D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.csproj.GenerateResource.Cache
-D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.csprojFakesResolveAssemblyReference.cache
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\SoftUniDash.exe
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\SoftUniDash.pdb
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Lessons\SoftUniDash\trunk\SoftUniDash\obj\Debug\SoftUniDash.csprojResolveAssemblyReference.cache
